@@ -5,5 +5,5 @@ We would be implementing Stack from scratch and also other problems of stack.
 
 # Description of questions according to their file name
 
-## <font color ='orange >First
+## <font color ='orange > First
 Design a stack that supports push, pop, peek, and retrieving the minimum element in constant time.¶
